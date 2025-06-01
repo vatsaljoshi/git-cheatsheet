@@ -43,4 +43,12 @@ git clone git@github.com:your-username/git-cheatsheet.git
 cd git-cheatsheet
 cat cheatsheet.md
 ```
+# Contributing
+
+This Git cheatsheet is a living, growing document. If you have tips, corrections, or new ideas — contribute!
+
+# Steps to contribute:
+- **Fork > Clone > Raise an PR (I'll review your PR, and merge/close it at earliest)**
+
+
 Good Luck! Vatsal :)
